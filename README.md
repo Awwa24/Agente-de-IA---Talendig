@@ -9,6 +9,6 @@ Responde preguntas de clientes en lenguaje natural
 Consulta precios de programas automáticamente
 Verifica disponibilidad de cupos en tiempo real
 Registra nuevos contactos , evitando duplicados
-Recuerda el contexto de la conversación completa, no responda preguntas aisladas
+Recuerda el contexto de la conversación completa.
 
 El archivo Knowledge_base.py actua como una simulacion de la base de datos.
